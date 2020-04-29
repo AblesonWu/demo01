@@ -1,0 +1,13 @@
+Package: demo01
+Type: Package
+Title: What the Package Does in One 'Title Case' Line
+Version: 1.0
+Date: 2020-04-29
+Author: Your Name
+Maintainer: Your Name <your@email.com>
+Description: Provides functionality for my package. These function are for use only with Wuran
+    and no other people.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.4)
+LinkingTo: Rcpp
+RoxygenNote: 7.1.0
