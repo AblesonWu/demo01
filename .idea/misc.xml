@@ -14,6 +14,13 @@
             </RMarkdownRenderProfile>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/vignettes/Best_Vignette_ever.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="knitRootDirectory" value="$PROJECT_DIR$/vignettes" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
